@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+
+body {
+  margin: 0 auto;
+  width: 960px;
+  background: green;
+}
+.articulo {
+  font-size: 14px;
+}
+#primero {
+  background: grey;
+}
+#segundo {
+  background: lightgrey;
+}
+.icon-article {
+  background: url('../images/articles_icon.png');
+  width: 130px; 
+  height: 130px;
+  display:inline-block; 
+}
